@@ -1,0 +1,45 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/a2/fe/21/a2fe21da9ce7d1698f5b48cdb506c853.jpg");
+    background-size: 100%; 
+    height: 70vh;
+    background-size: cover;
+    background-position: center;
+
+    text-align: center;
+}
+
+.hr{
+    color:whitesmoke;
+}
+
+table {
+    width: 100%;
+    border-color: aliceblue;
+}
+
+th {
+    color: yellow;
+}
+
+td {
+    color: white;
+}
+
+.sl {
+    color:white;
+}
+
+table ,th, td {
+    border-color: 1px white;
+}
+
+th, td {
+    padding: 15px;
+    text-align: center;
+}
+nav {
+    text-align: left;
+}
+section {
+    text-align: left;
+}
